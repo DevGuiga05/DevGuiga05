@@ -55,10 +55,11 @@
 ## 🌐 Vamos nos conectar?
 
 <p align="center">
-  <a href="mailto: devguiga05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/guilherme-machado-990a64284"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:devguiga05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/guilherme-machado-990a64284" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
+<p align="center"> Obrigado por visitar meu perfil! </p>
